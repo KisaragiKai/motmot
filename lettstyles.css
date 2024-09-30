@@ -46,7 +46,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Comic Sans;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 10px;
     color: #3e2723;
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
@@ -67,7 +67,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Georgia', monospace;
+    font-family: 'Comic Sans', monospace;
     font-size: 12px;
 	transform: rotate(180deg);
 }
